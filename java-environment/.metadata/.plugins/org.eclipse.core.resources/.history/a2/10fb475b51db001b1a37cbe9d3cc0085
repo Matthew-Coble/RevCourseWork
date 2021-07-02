@@ -6,6 +6,7 @@ public class DisplayingArrays {
 		int[] intArray = new int[2];
 		intArray[0] = 24;
 		intArray[1] = 4;
+		intArray[2] = 32;
 		
 		System.out.println(intArray);
 	}

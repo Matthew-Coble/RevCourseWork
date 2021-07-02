@@ -1,7 +1,6 @@
 INDEX VERSION 1.131+D:\Users\coble\Desktop\javaPrimer\java-environment\.metadata\.plugins\org.eclipse.jdt.core
 2380175872.index
 433660574.index
-1342381753.index
 4038756267.index
 2277357373.index
 2840227133.index
