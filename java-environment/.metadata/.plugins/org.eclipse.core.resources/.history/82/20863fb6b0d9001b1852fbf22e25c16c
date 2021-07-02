@@ -1,0 +1,13 @@
+package flowControl;
+	/*
+	 * CTRL + SPACE for context menu
+	 */
+public class IfStatements {
+
+	public static void main(String[] args) {
+		
+		if(true) {
+			System.out.println("The Condition was True");
+		}
+	}
+}
